@@ -1,6 +1,6 @@
 version: 1
 packages:
-  - version: commit:a749d188556bf15efe58721d0128398fba918a54
+  - version: commit:cd4c0fa47e9126540fe5a84441357fa0c197be6a
     name: shared
     url: https://github.com/franklapolito/hub-10tb.git
     branch: production
